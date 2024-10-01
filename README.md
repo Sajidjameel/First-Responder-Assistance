@@ -38,13 +38,6 @@ Businesses from a wide range of categories can sign up, display badges that indi
 
 ![Mobile-Friendly Design](https://github.com/user-attachments/assets/5050b39a-4e01-4901-bc86-4105fd93a0e5)
 
-## SEO Keywords
-- First Responder Directory
-- Business Support for First Responders
-- Discounts for First Responders
-- BrilliantDirectory Developer
-- Business Directory with Lead Generation
-- Health-Conscious Meals for First Responders
 
 ## About the Developer
 
