@@ -49,7 +49,6 @@ If you are looking to build or customize a directory on the **BrilliantDirectory
 ---
 **Hire me** for your next BrilliantDirectory project to create an innovative, business-friendly, and feature-rich directory platform.
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https:
-linkedin.com/in/sajid-jameel-721256178)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
 
