@@ -1,5 +1,5 @@
 # First-Responder-Assistance
-This platform connects businesses that support first responders, allowing them to sign up for membership, display badges, post discounts, and generate leads. Categories include food, transportation, retail, and more, with special badges for healthy meal options and exclusive first responder deals.
+This directory allows businesses to support first responders through membership, badges, and discount coupons. Categories include food, retail, and more. First responders claim deals, and businesses generate leads while showcasing healthy meal options and community support.
 # First Responder Assistance Project
 ![Artboard 1 (1)](https://github.com/user-attachments/assets/c6af71fd-a531-4780-be20-c2d0591f8213)
 
@@ -33,7 +33,6 @@ Built on the **BrilliantDirectory** platform, this project allows businesses fro
 
 ensures easy navigation across all devices.
 
-## SEO Keywords
 - First Responder Directory
 - First Responder Support Businesses
 - BrilliantDirectory Developer
