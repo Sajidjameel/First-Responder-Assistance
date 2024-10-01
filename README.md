@@ -44,11 +44,11 @@ ensures easy navigation across all devices.
 ## About the Developer
 My name is **Sajid Jamil**, an experienced developer specializing in **BrilliantDirectory** projects. I developed this platform to empower businesses to show their support for first responders and create valuable connections through discounts and lead generation. 
 
-If you are looking to build or customize a directory on the **BrilliantDirectory** platform, feel free to **[contact me](mailto:sajidjamil.met@gmail.com)** for inquiries or collaboration opportunities.
+If you are looking to build or customize a directory on the **BrilliantDirectory** platform, feel free to **[contact me](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sajidjamil.met@gmail.com)** for inquiries or collaboration opportunities.
 
 ---
 **Hire me** for your next BrilliantDirectory project to create an innovative, business-friendly, and feature-rich directory platform.
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sajidjamil.met@gmail.com)
 
